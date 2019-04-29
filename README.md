@@ -7,7 +7,7 @@
 
 ## required
 	python2.7
-	Tensorflow 1.2
+	Tensorflow 1.12
 
 
 ## train
